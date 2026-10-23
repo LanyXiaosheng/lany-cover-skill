@@ -1,0 +1,4 @@
+interface:
+  display_name: "Lany Cover"
+  short_description: "按已选小生头像风格制作可校验的个人封面"
+  default_prompt: "使用 $lany-cover 读取当前文章，按本轮选定头像风格生成一张个人 IP 封面；未指定风格时使用像素默认版。"
