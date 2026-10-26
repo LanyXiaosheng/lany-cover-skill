@@ -1,11 +1,11 @@
 # 小生封面人物媒介目录
 
-本目录只帮助选择封面里的角色媒介，不负责更换账号头像。默认身份参考是 [`pixel`](../assets/lany-avatar-reference.png)；用户本轮指定的头像始终优先。样例均为角色视觉试验，不自动成为长期默认，也不把方形头像背景直接铺到横版封面。
+本目录只帮助选择封面里的角色媒介，不负责更换账号头像。新封面的默认参考是 [`soft-handdrawn`](../assets/lany-avatar-handdrawn-reference.png)；用户本轮指定的头像始终优先。像素只在明确点名或精修既有像素图时使用。样例均为角色视觉试验，不自动成为账号头像，也不把方形头像背景直接铺到横版封面。
 
 | 编号 | ID | 本技能参考 | 媒介特征 | 状态 |
 | --- | --- | --- | --- | --- |
-| 01 | `pixel` | [像素默认](../assets/lany-avatar-reference.png)、[精细像素试样](../assets/styles/pixel-fine.png) | 清晰阶梯边缘、统一像素尺度 | 当前默认 |
-| 02 | `soft-handdrawn` | [自然手绘](../assets/lany-avatar-handdrawn-reference.png) | 自然墨线、轻纸纹、克制色块 | 可选 |
+| 01 | `pixel` | [像素兼容参考](../assets/lany-avatar-reference.png)、[精细像素试样](../assets/styles/pixel-fine.png) | 清晰阶梯边缘、统一像素尺度 | 仅明确选择或旧图精修 |
+| 02 | `soft-handdrawn` | [自然手绘](../assets/lany-avatar-handdrawn-reference.png) | 自然墨线、轻纸纹、克制色块 | 新封面默认 |
 | 03 | `cel-anime` | [赛璐璐](../assets/styles/cel-anime.png) | 收尖线条、两级阴影 | 候选 |
 | 04 | `designer-vinyl` | [立体潮玩](../assets/styles/designer-vinyl.png) | 哑光材质、雕塑发束 | 候选 |
 | 05 | `screenprint` | [丝印](../assets/styles/screenprint.png) | 分色块面、少量印刷颗粒 | 候选 |
